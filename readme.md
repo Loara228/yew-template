@@ -2,11 +2,11 @@
 # yew template
 
 ```
-chmod +x init.sh & ./init.sh
-project name: {NAME}
+$ chmod +x new.sh & ./new.sh
+$ project name: yew-template
 ```
 
 ```
-trunk serve
-firefox --new-window http://127.0.0.1:8080/
+$ trunk serve
+$ firefox --new-window http://127.0.0.1:8080/
 ```
