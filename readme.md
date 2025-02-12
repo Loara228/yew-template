@@ -1,10 +1,19 @@
 
 # yew template
 
+create template:
+
 ```
-$ chmod +x new.sh & ./new.sh
+$ wget https://raw.githubusercontent.com/Loara228/yew-template/refs/heads/master/new.sh &&
+  chmod +x new.sh &&
+  ./new.sh
+```
+
+```
 $ project name: yew-template
 ```
+
+run
 
 ```
 $ trunk serve
