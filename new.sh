@@ -11,8 +11,9 @@ cargo install --locked trunk
 
 cargo add yew --features csr
 cargo add yew-router
-cargo add wasm-bindgen
-cargo add wasm-bindgen-futures
+# cargo add wasm-bindgen
+# cargo add wasm-bindgen-futures
+cargo add gloo
 
 mkdir ./content
 
